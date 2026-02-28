@@ -1,35 +1,7 @@
 {
-  "featured_apps": [
-    {
-      "id": "key_password_pro",
-      "name": "KeyPassword",
-      "category": "Seguridad",
-      "icon_url": "https://raw.githubusercontent.com/kevvocv-lgtm/KevStore-Data/main/icons/key_icon.png",
-      "size": "7,5 MB"
-    },
-    {
-      "id": "kplayer",
-      "name": "KPlayer",
-      "category": "Musica",
-      "icon_url": "",
-      "size": "22,6 MB"
-    }
-  ],
+  "featured_apps": [],
   "trending_apps": [],
-  "new_arrivals_apps": [
-    {
-      "id": "key_password_pro",
-      "name": "KeyPassword",
-      "size": "7,5 MB",
-      "icon_url": ""
-    },
-    {
-      "id": "kplayer",
-      "name": "KPlayer",
-      "size": "22,6 MB",
-      "icon_url": ""
-    }
-  ],
+  "new_arrivals_apps": [],
   "all_apps_details": {
     "key_password_pro": {
       "id": "key_password_pro",
