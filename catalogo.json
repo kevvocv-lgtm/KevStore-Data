@@ -6,6 +6,13 @@
       "category": "Seguridad",
       "icon_url": "https://raw.githubusercontent.com/TU_USUARIO/KevStore-Data/main/icons/key_icon.png",
       "size": "7,5 MB"
+    },
+    {
+      "id": "key_password_pro",
+      "name": "KeyPassword",
+      "category": "Musica",
+      "icon_url": "https://raw.githubusercontent.com/TU_USUARIO/KevStore-Data/main/icons/key_icon.png",
+      "size": "22,6 MB"
     }
   ],
   "trending_apps": [],
@@ -14,6 +21,12 @@
       "id": "key_password_pro",
       "name": "KeyPassword",
       "size": "7,5 MB",
+      "icon_url": ""
+    },
+    {
+      "id": "kplayer",
+      "name": "KPlayer",
+      "size": "22,6 MB",
       "icon_url": ""
     }
   ],
@@ -28,6 +41,18 @@
       "apk_url": "kPassword.apk",
       "screenshot_urls": [],
       "about_description": "Gestor de contraseñas seguro y minimalista. Guarda tus credenciales localmente con cifrado avanzado y una interfaz intuitiva.",
+      "version": "1.0.0"
+    },
+    "kplayer": {
+      "id": "kplayer",
+      "name": "KPlayer",
+      "developer": "Kevin Dev",
+      "icon_url": "",
+      "downloads": "20+",
+      "download_size": "22,6 MB",
+      "apk_url": "kPlayer.apk",
+      "screenshot_urls": [],
+      "about_description": "Reproductor de musica con una interfaz moderna y sin anuncios.",
       "version": "1.0.0"
     }
   }
