@@ -40,11 +40,11 @@
       "download_size": "7,5 MB",
       "apk_url": "kPassword.apk",
       "screenshot_urls": [
-        "https://raw.githubusercontent.com/kevvocv-lgtm/KevStore-Data/refs/heads/main/screen_kpassword/cap1",
-        "https://raw.githubusercontent.com/kevvocv-lgtm/KevStore-Data/refs/heads/main/screen_kpassword/cap2",
-        "https://raw.githubusercontent.com/kevvocv-lgtm/KevStore-Data/refs/heads/main/screen_kpassword/cap3"
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kpassword/cap1.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kpassword/cap2.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kpassword/cap3.png?raw=true"
       ],
-      "about_description": "Gestor de contraseñas seguro y minimalista. Guarda tus credenciales localmente con cifrado avanzado y una interfaz intuitiva.",
+      "about_description": " jee Gestor de contraseñas seguro y minimalista. Guarda tus credenciales localmente con cifrado avanzado y una interfaz intuitiva.",
       "version": "1.0.0"
     },
     "kplayer": {
