@@ -20,6 +20,7 @@
       "about_description": "Gestor de contraseñas seguro y minimalista. Guarda tus credenciales localmente con cifrado avanzado y una interfaz intuitiva.",
       "version": "1.0.0"
     },
+    
     "kplayer": {
       "id": "kplayer",
       "name": "KPlayer",
@@ -38,6 +39,30 @@
       ],
       "about_description": "Reproductor de musica con una interfaz moderna y sin anuncios.",
       "version": "1.0.0"
+    },
+
+    "facuapp": {
+      "id": "facuapp",
+      "name": "FacuApp",
+      "developer": "Kev Studios",
+      "icon_url": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_kplayer.png?raw=true",
+      "downloads": "10+",
+      "download_size": "13,4 MB",
+      "apk_url": "facuApp.apk",
+      "screenshot_urls": [
+        
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap1.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap2.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap3.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap4.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap5.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap6.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap7.png?raw=true"
+      ],
+      "about_description": "FacuApp es el organizador definitivo para estudiantes universitarios.Olvidate de las agendas de papel y los recordatorios perdidos — tenés todo lo que necesitás en la palma de tu mano.
+      FacuApp es gratuita, sin anuncios y diseñada por y para estudiantes.",
+      "version": "1.0.0"
     }
+    
   }
 }
