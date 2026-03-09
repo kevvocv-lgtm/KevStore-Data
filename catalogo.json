@@ -61,6 +61,27 @@
       ],
       "about_description": "FacuApp es el organizador definitivo para estudiantes universitarios.Olvidate de las agendas de papel y los recordatorios perdidos — tenés todo lo que necesitás en la palma de tu mano. FacuApp es gratuita, sin anuncios y diseñada por y para estudiantes.",
       "version": "1.0.0"
+    },
+
+    "studynotes": {
+      "id": "studynotes",
+      "name": "Study Notes",
+      "developer": "Kev Studios",
+      "icon_url": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_kplayer.png?raw=true",
+      "downloads": "5+",
+      "download_size": "22,8 MB",
+      "apk_url": "studyNotes.apk",
+      "screenshot_urls": [
+        
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap1.jpeg?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap2.jpeg?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap3.jpeg?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap4.jpeg?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap5.jpeg?raw=true"
+      ],
+      "about_description": "StudyNotes es la app de notas diseñada para estudiantes que quieren rendir mejor. Organizá tus apuntes por materia, etiquetálos con tags y encontrá cualquier cosa al instante. Escribí con formato enriquecido, insertá imágenes y fórmulas matemáticas en LaTeX. Cuando llegue la hora de repasar, la IA generá resúmenes, preguntas de práctica y flashcards automáticas a partir de tus propias notas. Todo en una interfaz oscura, limpia y sin distracciones.
+Estudiá mejor. Rendí mejor.",
+      "version": "1.0.0"
     }
     
   }
