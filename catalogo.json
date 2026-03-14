@@ -1,126 +1,88 @@
-[
-  {
-    "id": "key_password_pro",
-    "name": "KeyPassword",
-    "shortDescription": "Gestor de contraseñas seguro y minimalista.",
-    "fullDescription": "Gestor de contraseñas seguro y minimalista. Guarda tus credenciales localmente con cifrado avanzado y una interfaz intuitiva.",
-    "version": "1.0.0",
-    "versionCode": 1,
-    "packageName": "com.kevv.keypassword",
-    "category": "Utilidades",
-    "iconUrl": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_kpassword.png?raw=true",
-    "apkUrl": "https://github.com/kevvocv-lgtm/KevStore-Data/raw/main/kPassword.apk",
-    "apkSize": "7.5 MB",
-    "screenshots": [
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kpassword/cap1.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kpassword/cap2.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kpassword/cap3.png?raw=true"
-    ],
-    "changelog": [
-      {
-        "version": "1.0.0",
-        "date": "2025-03-13",
-        "notes": "• Lanzamiento inicial\n• Cifrado avanzado de credenciales\n• Interfaz minimalista"
-      }
-    ],
-    "minSdk": 26,
-    "targetSdk": 35,
-    "releaseDate": "2025-03-13",
-    "tags": ["contraseñas", "seguridad", "utilidad"]
-  },
-  {
-    "id": "kplayer",
-    "name": "KPlayer",
-    "shortDescription": "Reproductor de música moderno y sin anuncios.",
-    "fullDescription": "Reproductor de música con una interfaz moderna y sin anuncios. Disfrutá tu música favorita sin interrupciones y con un diseño limpio pensado para vos.",
-    "version": "1.0.0",
-    "versionCode": 1,
-    "packageName": "com.kevv.kplayer",
-    "category": "Música",
-    "iconUrl": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_kplayer.png?raw=true",
-    "apkUrl": "https://github.com/kevvocv-lgtm/KevStore-Data/raw/main/kPlayer.apk",
-    "apkSize": "22.6 MB",
-    "screenshots": [
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap1.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap2.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap3.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap4.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap5.png?raw=true"
-    ],
-    "changelog": [
-      {
-        "version": "1.0.0",
-        "date": "2025-03-13",
-        "notes": "• Lanzamiento inicial\n• Interfaz moderna sin anuncios\n• Soporte para bibliotecas locales"
-      }
-    ],
-    "minSdk": 26,
-    "targetSdk": 35,
-    "releaseDate": "2025-03-13",
-    "tags": ["música", "reproductor", "sin anuncios"]
-  },
-  {
-    "id": "facuapp",
-    "name": "FacuApp",
-    "shortDescription": "El organizador definitivo para estudiantes universitarios.",
-    "fullDescription": "FacuApp es el organizador definitivo para estudiantes universitarios. Olvidate de las agendas de papel y los recordatorios perdidos — tenés todo lo que necesitás en la palma de tu mano. FacuApp es gratuita, sin anuncios y diseñada por y para estudiantes.",
-    "version": "1.0.0",
-    "versionCode": 1,
-    "packageName": "com.kevv.facuapp",
-    "category": "Educación",
-    "iconUrl": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_facuapp.png?raw=true",
-    "apkUrl": "https://github.com/kevvocv-lgtm/KevStore-Data/raw/main/facuApp.apk",
-    "apkSize": "13.4 MB",
-    "screenshots": [
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap1.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap2.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap3.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap4.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap5.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap6.png?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap7.png?raw=true"
-    ],
-    "changelog": [
-      {
-        "version": "1.0.0",
-        "date": "2025-03-13",
-        "notes": "• Lanzamiento inicial\n• Organizador de materias y horarios\n• Sin anuncios"
-      }
-    ],
-    "minSdk": 26,
-    "targetSdk": 35,
-    "releaseDate": "2025-03-13",
-    "tags": ["educación", "universidad", "organización"]
-  },
-  {
-    "id": "studynotes",
-    "name": "Study Notes",
-    "shortDescription": "La app de notas diseñada para estudiantes que quieren rendir mejor.",
-    "fullDescription": "StudyNotes es la app de notas diseñada para estudiantes que quieren rendir mejor. Organizá tus apuntes por materia, etiquetálos con tags y encontrá cualquier cosa al instante. Escribí con formato enriquecido, insertá imágenes y fórmulas matemáticas en LaTeX. Cuando llegue la hora de repasar, la IA generá resúmenes, preguntas de práctica y flashcards automáticas a partir de tus propias notas. Todo en una interfaz oscura, limpia y sin distracciones.\nEstudiá mejor. Rendí mejor.",
-    "version": "1.0.0",
-    "versionCode": 1,
-    "packageName": "com.kevv.studynotes",
-    "category": "Educación",
-    "iconUrl": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_studynotes.png?raw=true",
-    "apkUrl": "https://github.com/kevvocv-lgtm/KevStore-Data/raw/main/studyNotes.apk",
-    "apkSize": "22.8 MB",
-    "screenshots": [
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap1.jpeg?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap2.jpeg?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap3.jpeg?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap4.jpeg?raw=true",
-      "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap5.jpeg?raw=true"
-    ],
-    "changelog": [
-      {
-        "version": "1.0.0",
-        "date": "2025-03-13",
-        "notes": "• Lanzamiento inicial\n• Notas con formato enriquecido\n• IA para resúmenes y flashcards\n• Soporte para LaTeX"
-      }
-    ],
-    "minSdk": 26,
-    "targetSdk": 35,
-    "releaseDate": "2025-03-13",
-    "tags": ["educación", "notas", "IA", "estudio"]
+{
+  "featured_apps": [],
+  "trending_apps": [],
+  "new_arrivals_apps": [],
+  "all_apps_details": {
+    "key_password_pro": {
+      "id": "key_password_pro",
+      "name": "KeyPassword",
+      "developer": "Kevin Dev",
+      "icon_url": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_kpassword.png?raw=true",
+      "downloads": "10+",
+      "download_size": "7,5 MB",
+      "apk_url": "kPassword.apk",
+      "screenshot_urls": [
+        
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kpassword/cap1.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kpassword/cap2.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kpassword/cap3.png?raw=true"
+      ],
+      "about_description": "Gestor de contraseñas seguro y minimalista. Guarda tus credenciales localmente con cifrado avanzado y una interfaz intuitiva.",
+      "version": "1.0.0"
+    },
+    
+    "kplayer": {
+      "id": "kplayer",
+      "name": "KPlayer",
+      "developer": "Kevin Dev",
+      "icon_url": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_kplayer.png?raw=true",
+      "downloads": "20+",
+      "download_size": "22,6 MB",
+      "apk_url": "kPlayer.apk",
+      "screenshot_urls": [
+        
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap1.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap2.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap3.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap4.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_kplayer/cap5.png?raw=true"
+      ],
+      "about_description": "Reproductor de musica con una interfaz moderna y sin anuncios.",
+      "version": "1.0.0"
+    },
+
+    "facuapp": {
+      "id": "facuapp",
+      "name": "FacuApp",
+      "developer": "Kev Studios",
+      "icon_url": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_facuapp.png?raw=true",
+      "downloads": "10+",
+      "download_size": "13,4 MB",
+      "apk_url": "facuApp.apk",
+      "screenshot_urls": [
+        
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap1.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap2.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap3.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap4.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap5.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap6.png?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_facuApp/cap7.png?raw=true"
+      ],
+      "about_description": "FacuApp es el organizador definitivo para estudiantes universitarios.Olvidate de las agendas de papel y los recordatorios perdidos — tenés todo lo que necesitás en la palma de tu mano. FacuApp es gratuita, sin anuncios y diseñada por y para estudiantes.",
+      "version": "1.0.0"
+    },
+
+    "studynotes": {
+      "id": "studynotes",
+      "name": "Study Notes",
+      "developer": "Kev Studios",
+      "icon_url": "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/icons/ic_studynotes.png?raw=true",
+      "downloads": "5+",
+      "download_size": "22,8 MB",
+      "apk_url": "studyNotes.apk",
+      "screenshot_urls": [
+        
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap1.jpeg?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap2.jpeg?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap3.jpeg?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap4.jpeg?raw=true",
+        "https://github.com/kevvocv-lgtm/KevStore-Data/blob/main/screen_studynotes/cap5.jpeg?raw=true"
+      ],
+      "about_description": "StudyNotes es la app de notas diseñada para estudiantes que quieren rendir mejor. Organizá tus apuntes por materia, etiquetálos con tags y encontrá cualquier cosa al instante. Escribí con formato enriquecido, insertá imágenes y fórmulas matemáticas en LaTeX. Cuando llegue la hora de repasar, la IA generá resúmenes, preguntas de práctica y flashcards automáticas a partir de tus propias notas. Todo en una interfaz oscura, limpia y sin distracciones.
+Estudiá mejor. Rendí mejor.",
+      "version": "1.0.0"
+    }
+    
   }
-]
+}
